@@ -57,11 +57,10 @@ body {
 } */
 
 
-/* .loading-init__status {
-    margin-top: 1em;
-    font-size: 0.8em;
-    opacity: 0.75;
-} */
+.loading-init__status {
+    font-size: 25px;
+    color: red;
+}
 
 .stage-container {
     overflow: hidden;
